@@ -1,0 +1,26 @@
+
+##############
+####LineItem##
+##############
+localhost:8080/api/lineItems/createLineItem
+http://localhost:8080/api/lineItems/lineItem/1
+http://localhost:8080/api/lineItems/lineItems
+
+##############
+####Invoice###
+##############
+localhost:8080/api/invoices/createInvoice
+http://localhost:8080/api/invoices/invoice/1
+http://localhost:8080/api/invoices/invoices
+
+#############
+####H2#######
+#############
+http://localhost:8080/h2
+username: sa
+password: admin
+
+#############
+########DB###
+#############
+digitalplatoondb
